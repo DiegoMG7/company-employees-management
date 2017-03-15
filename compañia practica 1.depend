@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1488897328 source:d:\compañia practica 1\main.cpp
+	<iostream>
+	<string.h>
+
+1489370712 source:e:\compañia practica 1\main.cpp
+	<iostream>
+	<string.h>
+	<windows.h>
+
+1489003778 source:f:\compañia practica 1\main.cpp
+	<iostream>
+	<string.h>
+
+1489452669 source:c:\users\diego moreno\desktop\compañia practica 1\main.cpp
+	<iostream>
+	<string.h>
+	<windows.h>
+
